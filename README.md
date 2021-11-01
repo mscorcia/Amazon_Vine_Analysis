@@ -30,4 +30,4 @@ The purpose of this analysis is to determine if there is a bias amongst Amazon V
 
 ## Summary: 
 
-When comparing the percentage of reviews that are 5 stars from Vine members to non-Vine members, it can be concluded that there is no bias.  The percentages are approximately the same.  To further investigate if there is any bias is to see how 1 star reviews from Vine members compare to non-Vine members.
+When comparing the percentage of reviews that are 5 stars from Vine members to non-Vine members, it can be concluded that there is no bias.  The percentages are approximately the same.  To further investigate if there is any bias, is to see how 1 star reviews from Vine members compare to non-Vine members.
